@@ -77,3 +77,7 @@ function startOver() {
     level = 0;
     gamePattern = [];
 }
+
+$("#tutorial-icon").click(function () {     
+    alert("Watch what color the computer picks and try to memorize it! Each round the computer will keep adding colors for you to memorize and repeat its pattern. Select one wrong color and you lose!");
+});
