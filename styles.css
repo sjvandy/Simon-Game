@@ -9,22 +9,6 @@ body {
   margin:  5%;
   color: #FEF2BF;
 }
-/* Icon */
-#tutorial-icon {
-  display: inline-block;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-size: 3rem;
-  margin: 50px;
-  color: #FEF2BF;
-}
-
-p{
-  font-family: 'Press Start 2P', cursive;
-  font-size: 1rem;  
-  color: #FEF2BF;
-}
 
 .container {
   display: block;
